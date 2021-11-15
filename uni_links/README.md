@@ -202,7 +202,7 @@ I **strongly** recommend watching the [Apple WWDC 2015, session 509 - Seamless L
 
 ## Usage
 
-There are two ways your app will recieve a link - from cold start and brought
+There are two ways your app will receive a link - from cold start and brought
 from the background. More on these after the example usage in
 [More about app start from a link](#more-about-app-start-from-a-link).
 
